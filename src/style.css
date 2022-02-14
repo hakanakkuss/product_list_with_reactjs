@@ -1,0 +1,98 @@
+.availableProductsCard {
+  margin-left: 10em;
+  margin-top: 3em;
+  border-style: groove;
+  border-radius: 4px;
+  padding: 10px;
+  padding-top: 10px;
+  width: 30em;
+  display: inline-block;
+  text-align: left;
+}
+.reviewCard {
+  margin-left: 12em;
+  margin-top: 15px;
+  border-style: groove;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-top: 2px;
+  width: 30em;
+  text-align: left;
+}
+.categoryCard {
+  text-align: left;
+  margin: 3em 10em 3em 7em;
+  border-style: groove;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 40px;
+  width: 30em;
+  float: right;
+  display: flexbox;
+}
+.addCategoryButton {
+  background-color: #034ee7;
+  margin-right: 15em;
+  color: aliceblue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 12px;
+  margin-left: 9em;
+  padding: 8px;
+  width: 40em;
+  float: right;
+}
+.remove-category-btn {
+  background-color: #034ee7;
+  color: aliceblue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 11px;
+  padding: 2px;
+  margin-top: 58px;
+  margin-left: 30px;
+  width: 10em;
+  float: right;
+  margin-bottom: 10px;
+}
+.remove-category-btn-disabled {
+  background-color: #a2a2a2;
+  color: rgb(0, 0, 0);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 11px;
+  padding: 2px;
+  margin-top: 60px;
+  margin-left: 30px;
+  width: 10em;
+  float: right;
+  margin-bottom: 10px;
+}
+.add-products-btn {
+  background-color: #034ee7;
+  color: aliceblue;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 11px;
+  padding: 2px;
+  margin-top: 60px;
+  margin-left: 30px;
+  width: 10em;
+  float: left;
+}
+.add-products-btn-disabled {
+  background-color: #a2a2a2;
+  color: rgb(0, 0, 0);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 11px;
+  padding: 2px;
+  margin-top: 60px;
+  margin-left: 30px;
+  width: 10em;
+  float: left;
+}
+.p {
+  font-size: small;
+  font-style: oblique;
+  font-weight: bold;
+}
+.text {
+  text-align: center;
+  position: sticky;
+}
